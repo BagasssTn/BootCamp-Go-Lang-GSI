@@ -1,0 +1,7 @@
+GOPATH adalah metode lama dalam Go untuk mengelola project.
+    - Project harus berada di direktori khusus (GOPATH/src)
+    - Saat ini sudah jarang digunakan
+
+Go Modules adalah sistem modern pengganti GOPATH.
+    - Project bisa dibuat di mana saja (lebih fleksibel)
+    - Memiliki file go.mod untuk mengatur dependency dan versi
