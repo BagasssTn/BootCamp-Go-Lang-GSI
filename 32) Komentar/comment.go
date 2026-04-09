@@ -1,0 +1,9 @@
+package main
+
+/**
+INI ADALAH KOMENTAR MULTI LINE
+*/
+
+func main()  {
+	// INI ADALAH KOMENTAR SINGLE LINE
+}

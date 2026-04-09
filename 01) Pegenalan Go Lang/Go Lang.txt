@@ -1,0 +1,1 @@
+Golang adalah salah satu bahasa pemrograman yang dibuat oleh Google, dengan tujuan menyempurnakan bahasa pemrograman yang sudah ada, seperti Python, C, dan lain sebagainya.
